@@ -1,3 +1,4 @@
+[Notes on the Fork](notes.md)
 # Effects
 
 A brief exploration of the various approaches to modeling side effects in a purely functional programming language.
